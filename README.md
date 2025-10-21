@@ -62,7 +62,7 @@ Antes de começar, certifique-se de ter o seguinte:
 ### 1️⃣ Clone o Repositório
 
 ```bash
-git clone https://github.com/seuusuario/mcp-chat.git
+git clone https://github.com/Marcus-Boni/MCP-Introduction-Course-Anthropic.git
 cd mcp-chat
 ```
 
