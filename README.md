@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/marcus-boni-mcp-introduction-course-anthropic-badge.png)](https://mseep.ai/app/marcus-boni-mcp-introduction-course-anthropic)
+
 <div align="center">
 
 # 🤖 MCP Chat
